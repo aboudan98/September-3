@@ -1,2 +1,5 @@
-Every 84 hours (from Thursday at 8PM to Monday at 8AM) the clock loses 12 minutes. For Saturday at 7AM, 35 hours had passed. 35/85 = 0.41666667, multiplying that by 12 minutes give us exactly 5 minutes. 
-Since the clock was 5 minutes ahead, it would take exactly 35 hours for it to be exactly at the right time. so the answer is "a" saturday at 7AM
+Every 84 hours (from Thursday at 8PM to Monday at 8AM) the clock loses 12 minutes. 
+For Saturday at 7AM, 35 hours had passed. 35/85 = 0.41666667, 
+multiplying that by 12 minutes give us exactly 5 minutes. 
+Since the clock was 5 minutes ahead, it would take exactly 35 hours for it to 
+be exactly at the right time. so the answer is "a" saturday at 7AM
